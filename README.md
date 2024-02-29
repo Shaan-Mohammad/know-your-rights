@@ -4,4 +4,4 @@ Idea: We are creating a website having a chatbot which provide us all the inform
 
 Flow Chart:
 
-![alt text](<WhatsApp Image 2024-03-01 at 00.27.49_6bf88b13.jpg>)
+![alt text](FlowChart)
