@@ -4,4 +4,4 @@ Idea: We are creating a website having a chatbot which provide us all the inform
 
 Flow Chart:
 
-![alt text](FlowChart)
+![](https://github.com/Shaan-Mohammad/know-your-rights/assets/134370682/6cf87c39-e91d-4eb4-ad6c-47113ea4d70a)
