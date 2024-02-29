@@ -1,0 +1,77 @@
+.madimi-one-regular {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+.main{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    /* background-image: url("https://i.pinimg.com/564x/de/8e/54/de8e54c48411c0d338243abfe79be16c.jpg"); */
+    background-size:contain;
+}
+
+.header{
+    display: flex;
+    width: 100%;
+}
+
+.header-right{
+    width: 10%;
+    display: flex;
+    align-self: center;
+    justify-content: end;
+    margin-left:400px;
+}
+
+.Logo-temp{
+    font-family: "Madimi One";
+    font-size: 50px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    text-wrap: nowrap;
+    margin-left: 500px;
+}
+
+.header-right a{
+    margin-left: 20px;
+    text-decoration: none;
+    background-color:black;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+}
+
+.main-page-text{
+    padding-left: 50px;
+    margin-top: 100px;
+}
+
+.main-page-text-heading{
+    font-size: 80px;
+    margin: 0;
+}
+
+.main-page-text-subheading{
+    font-size: 50px;
+    margin: 20px 0;
+}
+
+.main-page-btns{
+    display: flex;
+    gap: 40px;
+    margin: 50px 50px;
+
+}
+
+.main-page-btns div{
+    background-color: black;
+    color: white;
+    padding: 10px 30px;    
+}
